@@ -208,6 +208,13 @@ $("#contact").click(function(e){
     scrollTop:heightTop_contact-100
   },1000);
 });
+/********点击 btn2 滑动值 contact me处***/
+$(".btn2").click(function(e){
+  e.preventDefault();
+  $("body").animate({
+    scrollTop:heightTop_contact-100
+  },1000);
+});
 
 $(window).scroll(function(){
   if($(this).scrollTop()>=heights*(3/4)&&$(this).scrollTop()<heightTop_experience*0.8){

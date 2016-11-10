@@ -24,7 +24,7 @@
       <file leaf-file-name="myself.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myself.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32503662">
+            <state vertical-scroll-proportion="0.32551318">
               <caret line="156" column="23" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -68,10 +68,10 @@
         <entry file="file://$PROJECT_DIR$/js/myself.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+              <caret line="216" column="3" selection-start-line="216" selection-start-column="3" selection-end-line="216" selection-end-column="3" />
               <folding>
                 <element signature="e#2306#2578#0" expanded="false" />
-                <element signature="e#6737#6823#0" expanded="false" />
+                <element signature="e#6899#6985#0" expanded="false" />
                 <element signature="n#!!block;n#can#0" expanded="false" />
                 <element signature="n#!!block;n#html5#0" expanded="false" />
                 <element signature="n#!!block;n#css3#0" expanded="false" />
@@ -118,8 +118,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="250" />
-    <option name="y" value="96" />
+    <option name="x" value="227" />
+    <option name="y" value="94" />
     <option name="width" value="1592" />
     <option name="height" value="874" />
   </component>
@@ -155,44 +155,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="简历" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="简历" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="个人简历" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="简历" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="个人简历" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="简历" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="个人简历" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -276,7 +238,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="250" y="96" width="1592" height="874" extended-state="1" />
+    <frame x="227" y="94" width="1592" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16988418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -361,7 +323,64 @@
           <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
           <folding>
             <element signature="e#2306#2578#0" expanded="false" />
-            <element signature="e#6737#6823#0" expanded="false" />
+            <element signature="e#6899#6985#0" expanded="false" />
+            <element signature="n#!!block;n#can#0" expanded="false" />
+            <element signature="n#!!block;n#html5#0" expanded="false" />
+            <element signature="n#!!block;n#css3#0" expanded="false" />
+            <element signature="n#!!block;n#js#0" expanded="false" />
+            <element signature="n#!!block;n#jquery#0" expanded="false" />
+            <element signature="n#!!block;n#angulajs#0" expanded="false" />
+            <element signature="n#!!block;n#bootstrap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myself.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/myself.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="976" column="1" selection-start-line="976" selection-start-column="1" selection-end-line="976" selection-end-column="1" />
+          <folding>
+            <element signature="e#1412#2775#0" expanded="false" />
+            <element signature="e#6772#11786#0" expanded="false" />
+            <element signature="e#6860#6972#0" expanded="false" />
+            <element signature="e#6996#7067#0" expanded="false" />
+            <element signature="e#7096#7121#0" expanded="false" />
+            <element signature="e#7129#7426#0" expanded="false" />
+            <element signature="e#7429#8379#0" expanded="false" />
+            <element signature="e#8447#9404#0" expanded="false" />
+            <element signature="e#9456#9734#0" expanded="false" />
+            <element signature="e#9737#10574#0" expanded="false" />
+            <element signature="e#10590#10891#0" expanded="false" />
+            <element signature="e#10894#11784#0" expanded="false" />
+            <element signature="e#11862#16774#0" expanded="false" />
+            <element signature="e#12463#13377#0" expanded="false" />
+            <element signature="e#13445#14366#0" expanded="false" />
+            <element signature="e#14376#14664#0" expanded="false" />
+            <element signature="e#15544#15855#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/myself.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+          <folding>
+            <element signature="e#2306#2578#0" expanded="false" />
+            <element signature="e#6899#6985#0" expanded="false" />
             <element signature="n#!!block;n#can#0" expanded="false" />
             <element signature="n#!!block;n#html5#0" expanded="false" />
             <element signature="n#!!block;n#css3#0" expanded="false" />
@@ -427,7 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -475,10 +493,10 @@
     <entry file="file://$PROJECT_DIR$/js/myself.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+          <caret line="216" column="3" selection-start-line="216" selection-start-column="3" selection-end-line="216" selection-end-column="3" />
           <folding>
             <element signature="e#2306#2578#0" expanded="false" />
-            <element signature="e#6737#6823#0" expanded="false" />
+            <element signature="e#6899#6985#0" expanded="false" />
             <element signature="n#!!block;n#can#0" expanded="false" />
             <element signature="n#!!block;n#html5#0" expanded="false" />
             <element signature="n#!!block;n#css3#0" expanded="false" />
@@ -492,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myself.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32503662">
+        <state vertical-scroll-proportion="0.32551318">
           <caret line="156" column="23" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
